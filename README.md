@@ -6,8 +6,13 @@
 
 ### FULL-STACK DEVELOPER
 
-**I build digital products that look sharp, feel intuitive, and work reliably.**
+**Building thoughtful digital experiences across the frontend and backend.**
 
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1000&color=8B5E5E&center=true&vCenter=true&width=560&lines=React.js+%2B+Node.js;REST+APIs+%2B+MongoDB;Clean+UI+%2B+Clean+Architecture" alt="Typing animation" />
+
+<br />
 <br />
 
 <a href="https://amal-portfolio-xi.vercel.app/">
@@ -19,18 +24,13 @@
 </a>
 &nbsp;
 <a href="mailto:elhayaa28@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=500&lines=React+%2B+Node.js;REST+APIs+%2B+MongoDB;Clean+UI+%2B+Clean+Architecture" alt="Typing Animation" />
-
-<br />
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,github&perline=8" alt="Core Technologies" />
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,github&perline=8" alt="Core stack" />
 
 <br />
 <br />
@@ -41,121 +41,138 @@
 
 <div align="center">
 
-## THE SHORT VERSION
+### 01 — THE DEVELOPER
+
+<br />
 
 **Frontend-minded. Backend-capable. Product-focused.**
 
-I work across the stack to turn ideas into **responsive interfaces, scalable APIs, and complete web experiences.**
+I build modern web applications from **interface to API** —
+combining clean UI, structured architecture, and practical engineering.
+
+<br />
 
 </div>
 
+---
+
+## WHAT I BUILD
+
 <br />
+
+**01**
+
+### DIGITAL INTERFACES
+
+Responsive React applications with reusable components, intuitive navigation, and polished UI.
+
+`React.js` · `JavaScript` · `Tailwind CSS` · `Bootstrap`
+
+<br />
+
+**02**
+
+### BACKEND SYSTEMS
+
+Structured REST APIs with authentication, database integration, and reliable application logic.
+
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
+
+<br />
+
+**03**
+
+### FULL-STACK PRODUCTS
+
+Connecting frontend and backend into complete applications built around real-world workflows.
+
+`REST APIs` · `Authentication` · `API Integration` · `Clean Architecture`
 
 ---
 
-## 01 / WHAT I BUILD
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### FRONTEND
-
-**Interfaces with intention.**
-
-I build responsive React applications with reusable components, clean layouts, intuitive interactions, and attention to detail.
+<div align="center">
 
 <br />
 
-`React.js`  
-`JavaScript`  
-`Tailwind CSS`  
-`Bootstrap`  
-`React Router`
+## 02 — SELECTED WORK
 
-</td>
-
-<td width="33%" valign="top">
-
-### BACKEND
-
-**Systems behind the interface.**
-
-I design REST APIs and backend services with structured architecture, authentication, database integration, and reliable data flow.
+### A few things I've built.
 
 <br />
 
-`Node.js`  
-`Express.js`  
-`MongoDB`  
-`Mongoose`  
-`REST APIs`
-
-</td>
-
-<td width="33%" valign="top">
-
-### ENGINEERING
-
-**From feature to full product.**
-
-I connect frontend and backend into maintainable applications designed around real-world workflows and scalability.
-
-<br />
-
-`API Integration`  
-`Authentication`  
-`Clean Architecture`  
-`Reusable Components`  
-`Responsive Design`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## 02 / SELECTED WORK
-
-<br />
-
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" valign="top">
-
-# EVENTORA
+## EVENTORA
 
 ### Event Discovery Platform
 
-A modern event discovery application powered by the **Ticketmaster API**.
+A modern event discovery experience powered by the **Ticketmaster API**.
 
-Built around dynamic data, client-side routing, reusable components, API integration, and responsive UI.
+Dynamic event browsing, API integration, client-side routing, reusable components, and responsive UI.
 
 <br />
 
-**STACK**
-
-`React` `Tailwind` `Axios`  
-`React Router` `Context API`
+**React.js · Tailwind CSS · Axios · React Router · Context API**
 
 <br />
 
 <a href="https://eventora-event-platform-k5om.vercel.app/">
-  <b>LIVE ↗</b>
+  <b>VIEW PROJECT ↗</b>
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AmalMansour19/eventora-event-platform">
-  <b>CODE ↗</b>
+  <b>SOURCE ↗</b>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-# TASTECRAFT
+### 01
+
+<br />
+
+**DISCOVER**  
+**EXPLORE**  
+**CONNECT**
+
+<br />
+
+`LIVE PRODUCT`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+
+### 02
+
+<br />
+
+**DISCOVER**  
+**COOK**  
+**CREATE**
+
+<br />
+
+`RESPONSIVE UI`
+
+</td>
+
+<td width="55%" valign="top">
+
+## TASTECRAFT
 
 ### Food & Recipe Experience
 
@@ -163,67 +180,99 @@ A polished food-focused web experience built around clean presentation, intuitiv
 
 <br />
 
-**STACK**
-
-`React` `JavaScript` `CSS`
+**React.js · JavaScript · CSS**
 
 <br />
 
 <a href="https://taste-craft-eight.vercel.app/">
-  <b>LIVE ↗</b>
+  <b>VIEW PROJECT ↗</b>
 </a>
 
 </td>
-
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# ADMIN DASHBOARD
-
-### Store Management Interface
-
-A responsive dashboard experience designed for managing store data through a clean and structured interface.
+</table>
 
 <br />
 
-**STACK**
+<table>
+<tr>
+<td width="55%" valign="top">
 
-`React` `Tailwind` `REST API`
+## ADMIN DASHBOARD
+
+### Store Management Interface
+
+A responsive dashboard designed around structured data presentation and practical management workflows.
+
+<br />
+
+**React.js · Tailwind CSS · REST API**
 
 <br />
 
 <a href="https://dashboard-g2fbu90k7-amal-mansour.vercel.app/login">
-  <b>LIVE ↗</b>
+  <b>VIEW PROJECT ↗</b>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="middle" align="center">
 
-# E-COMMERCE API
-
-### Full-Stack Backend
-
-A structured REST API covering authentication, products, reviews, cart, wishlist, orders, and administrative functionality.
+### 03
 
 <br />
 
-**STACK**
+**MANAGE**  
+**ANALYZE**  
+**CONTROL**
 
-`Node.js` `Express`  
-`MongoDB` `Mongoose`
+<br />
+
+`DASHBOARD UI`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+
+### 04
+
+<br />
+
+**AUTH**  
+**DATA**  
+**ORDERS**
+
+<br />
+
+`REST API`
+
+</td>
+
+<td width="55%" valign="top">
+
+## E-COMMERCE API
+
+### Full-Stack Backend
+
+A structured e-commerce REST API covering authentication, products, reviews, cart, wishlist, orders, and administrative functionality.
+
+<br />
+
+**Node.js · Express.js · MongoDB · Mongoose**
 
 <br />
 
 <a href="https://github.com/AmalMansour19/e-commerce-backend">
-  <b>SOURCE ↗</b>
+  <b>VIEW SOURCE ↗</b>
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -231,18 +280,73 @@ A structured REST API covering authentication, products, reviews, cart, wishlist
 
 <div align="center">
 
-## 03 / TECHNICAL TOOLKIT
+## 03 — STACK
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,nodejs,express,mongodb,mongoose,git,github,figma,postman,vscode&perline=9" alt="Technical Toolkit" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,nodejs,express,mongodb,mongoose,git,github,figma,postman,vscode&perline=9" alt="Technology stack" />
 
 <br />
 <br />
 
-**React.js** · **JavaScript** · **Node.js** · **Express.js** · **MongoDB**
+`FRONTEND` &nbsp; React.js · JavaScript · Tailwind · Bootstrap
 
-**Tailwind CSS** · **Bootstrap** · **REST APIs** · **Git** · **GitHub**
+`BACKEND` &nbsp; Node.js · Express.js · MongoDB · Mongoose
+
+`WORKFLOW` &nbsp; Git · GitHub · Figma · Postman · VS Code
+
+<br />
+<br />
+
+</div>
+
+---
+
+<div align="center">
+
+## 04 — THE NUMBERS
+
+<br />
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 24
+
+**PUBLIC REPOSITORIES**
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+**SELECTED PROJECTS**
+
+</td>
+
+<td align="center" width="25%">
+
+### 02
+
+**STACK LAYERS**
+
+</td>
+
+<td align="center" width="25%">
+
+### 01
+
+**FULL-STACK MINDSET**
+
+</td>
+
+</tr>
+</table>
+
+<br />
 
 </div>
 
@@ -254,27 +358,27 @@ A structured REST API covering authentication, products, reviews, cart, wishlist
 
 # LET'S BUILD SOMETHING
 
-### Have an idea, a product, or a problem worth solving?
+### Turning ideas into products worth using.
 
 <br />
 
 <a href="https://amal-portfolio-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Work" />
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" />
 </a>
 
 <br />
 <br />
 
-<a href="mailto:elhayaa28@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amalmansour20/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/AmalMansour19">GitHub</a>
+<a href="mailto:elhayaa28@gmail.com">EMAIL</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amalmansour20/">LINKEDIN</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AmalMansour19">GITHUB</a>
 
 <br />
 <br />
 
-<sub>Build with purpose. Ship with confidence.</sub>
+<sub>Design with intention · Build with purpose · Keep improving</sub>
 
 <br />
 <br />
